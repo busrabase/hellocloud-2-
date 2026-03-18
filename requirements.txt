@@ -1,0 +1,5 @@
+# hellocloud-2-
+flask 
+guunicon 
+psycopg2-binary
+
