@@ -1,5 +1,5 @@
 # hellocloud-2-
 flask 
-guunicon 
+gunicorn
 psycopg2-binary
 
